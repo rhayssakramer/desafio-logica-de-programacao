@@ -3,8 +3,8 @@
 Este repositório corresponde ao Desafio #02 da [Formação Lógica de Programação](https://web.dio.me/track/formacao-logica-de-programacao) para desenvolver desenvolver uma Calculadora de Partidas Rankeadas utilizando estruturas condicionais e funções.
 
 ### Índice
-- [Desafio de Projeto]()
-- [Objetivos]()
+- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2302-Calculadora-de-Partidas#-desafio-de-projeto)
+- [Objetivos](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2302-Calculadora-de-Partidas#%EF%B8%8F-objetivos)
 
 ### 🎯 Desafio de Projeto
 Utilize todos seus conhecimentos lógicos até aqui para desenvolver uma Calculadora de Partidas Rankeadas, chegou a hora de usar todo seu conhecimento em estruturas condicionais e funções para criar um algoritmo decisivo.
