@@ -11,7 +11,9 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para os estudos:
-- [Link]()
+- [Rockseat](https://www.rocketseat.com.br/blog/artigos/post/logica-de-programacao-para-iniciantes-em-programacao) - Lógica de programação para iniciantes em programação
+- [Locaweb](https://www.locaweb.com.br/blog/temas/codigo-aberto/logica-de-programacao-o-que-e/) - Lógica de programação: o que é e para que serve?
+- [Unesp](https://www.feg.unesp.br/Home/Pesquisa23/inovee/oficinatecnologica/apostila---introducao-a-logica-de-programacao.compressed.pdf) - Introdução à Lógica de Programação
 
 ### 💻 Projetos e Desafios  
 Veja os projetos e desafios que completei durante a formação:
