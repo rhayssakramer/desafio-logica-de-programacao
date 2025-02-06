@@ -21,7 +21,7 @@ Veja os projetos e desafios que completei durante a formação:
 - [Desafio 3: Escrevendo as Classes de Um Jogo](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2303-Classes-de-Jogo)
 
 ### 🔗 Links Úteis
-- [Site]()
+- [Formação Lógica de Programação](https://web.dio.me/track/formacao-logica-de-programacao)
 
 ### ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da [Formação Lógica de Programação](https://web.dio.me/track/formacao-logica-de-programacao). Explore os recursos compartilhados necessários para atender às suas necessidades de Lógica de Programação.
