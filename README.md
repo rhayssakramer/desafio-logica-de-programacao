@@ -15,7 +15,7 @@ Aqui você encontrará uma lista de recursos úteis para os estudos:
 
 ### 💻 Projetos e Desafios  
 Veja os projetos e desafios que completei durante a formação:
-- [Desafios de Código]()
+- [Desafios de Código](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafios-de-Codigo)
 - [Desafio 1: Classificador de Nível de Herói](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2301-Classificador-Heroi)
 - [Desafio 2: Calculadora de Partidas Rankeadas](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2302-Calculadora-de-Partidas)
 - [Desafio 3: Escrevendo as Classes de Um Jogo](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2303-Classes-de-Jogo)
