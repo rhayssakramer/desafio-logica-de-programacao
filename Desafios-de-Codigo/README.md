@@ -12,7 +12,7 @@ Este repositório corresponde aos Desafios de Código da [Formação Lógica de 
 - [4 - Coleta de Tesouros no Dungeon](https://github.com/rhayssakramer/formacao-logica-de-programacao/blob/main/Desafios-de-Codigo/04-coleta-tesouro-dungeon.js)
 - [5 - Geração de Biomas em um Mundo de Blocos](https://github.com/rhayssakramer/formacao-logica-de-programacao/blob/main/Desafios-de-Codigo/05-geracao-biomas.js)
 - [6 - Combinando Nomes de Pokémons](https://github.com/rhayssakramer/formacao-logica-de-programacao/blob/main/Desafios-de-Codigo/06-combinando-nomes.js)
-- [7 - Gerenciamento de Itens Mágicos](https://github.com/rhayssakramer/formacao-logica-de-programacao/blob/main/Desafios-de-Codigo/07-gereciamento-m%C3%A1gicos.js)
+- [7 - Gerenciamento de Itens Mágicos](https://github.com/rhayssakramer/formacao-logica-de-programacao/blob/main/Desafios-de-Codigo/07-gereciamento-magicos.js)
 
 ### ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da [Formação Lógica de Programação](https://web.dio.me/track/formacao-logica-de-programacao). Explore os recursos compartilhados necessários para atender às suas necessidades de Lógica de Programação.
