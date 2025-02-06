@@ -3,8 +3,8 @@
 Este repositório corresponde ao Desafio #01 da [Formação Lógica de Programação](https://web.dio.me/track/formacao-logica-de-programacao) para desenvolver um classificador de nível de heróis utilizando estruturas condicionais.
 
 ### Índice
-- [Desafio de Projeto]()
-- [Objetivos]()
+- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2301-Classificador-Heroi#-desafio-de-projeto)
+- [Objetivos](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2301-Classificador-Heroi#%EF%B8%8F-objetivos)
 
 ### 🎯 Desafio de Projeto
 Utilize todos seus conhecimentos lógicos até aqui para desenvolver um classificador de nível de heróis, chegou a hora de usar todo seu conhecimento em estruturas condicionais.
