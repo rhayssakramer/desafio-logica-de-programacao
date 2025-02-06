@@ -3,8 +3,8 @@
 Este repositório corresponde ao Desafio #03 da [Formação Lógica de Programação](https://web.dio.me/track/formacao-logica-de-programacao) para Escrever as classes de um Jogo utilizando estruturas condicionais, funções e estrutura de dados.
 
 ### Índice
-- [Desafio de Projeto]()
-- [Objetivos]()
+- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2303-Classes-de-Jogo#-desafio-de-projeto)
+- [Objetivos](https://github.com/rhayssakramer/formacao-logica-de-programacao/tree/main/Desafio%2303-Classes-de-Jogo#%EF%B8%8F-objetivos)
 
 ### 🎯 Desafio de Projeto
 Utilize todos seus conhecimentos lógicos até aqui para Escrever as classes de um Jogo, chegou a hora de usar todo seu conhecimento em estruturas condicionais, funções e estrutura de dados para criar um molde de objeto para representar personagens de jogos.
@@ -19,7 +19,7 @@ O Que deve ser utilizado:
 - Funções
 - Classes e Objetos
 
-Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
+Crie uma classe genérica que represente um herói de uma aventura e que possua as seguintes propriedades:
 - nome
 - idade
 - tipo (ex: guerreiro, mago, monge, ninja )
