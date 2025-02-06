@@ -3,11 +3,11 @@
 Este repositório corresponde ao compliado de conteúdos utilizados na [Formação Lógica de Programação](https://web.dio.me/track/formacao-github-certification). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a formação.
 
 ### 🗂️ O que você encontrará aqui?
-Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp e da formação, assim como os desafios, links úteis, estudos e outros recursos.
+Este repositório está organizado para armazenar e gerenciar todos os materiais da formação, assim como os desafios, links úteis, estudos e outros recursos.
 
-- 🔍 [Recursos de Estudo:]() links e materiais recomendados para o estudo de Lógica de Programação.
-- 💻 [Projetos e Desafios:]() códigos e exercícios práticos realizados durante a formação.
-- 🔗 [Links Úteis:]() links, artigos e documentação oficial.
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/formacao-logica-de-programacao?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo de Lógica de Programação.
+- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/formacao-logica-de-programacao?tab=readme-ov-file#-projetos-e-desafios) códigos e exercícios práticos realizados durante a formação.
+- 🔗 [Links Úteis:](https://github.com/rhayssakramer/formacao-logica-de-programacao?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial.
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para os estudos:
